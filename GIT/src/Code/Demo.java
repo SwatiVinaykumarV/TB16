@@ -6,10 +6,7 @@ public class Demo {
 	{
 		System.out.println("Hi m1");
 	}
-	public Demo()
-	{
-		System.out.println("This is constructor");
-	}
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("This is my 1st Git..ok");
