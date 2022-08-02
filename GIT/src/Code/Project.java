@@ -4,11 +4,7 @@ public class Project
 {
 	public void method1()
 	{
-		System.out.println("m1");
-	}
-	public void method2()
-	{
-		System.out.println("m2");
+		System.out.println("");
 	}
 	
 	public static void main(String[] args) 
