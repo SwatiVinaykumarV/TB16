@@ -9,6 +9,7 @@ public class Demo {
 	public void m2()
 	{
 		System.out.println("Hi m2");
+		System.out.println("Hi m2");
 	}
 	public void m3()
 	{
