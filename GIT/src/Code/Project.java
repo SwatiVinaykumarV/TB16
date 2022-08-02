@@ -24,6 +24,7 @@ public class Project
 	
 		Project p=new Project();
 		p.method3();
+		p.method2();
 		
 	}
 
