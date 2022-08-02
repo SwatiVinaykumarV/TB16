@@ -10,7 +10,10 @@ public class Project
 	{
 		System.out.println("m2");
 	}
-	
+	public void method3()
+	{
+		System.out.println("m3");
+	}	
 	public static void main(String[] args) 
 	{
 		System.out.println("this is new Git project");
