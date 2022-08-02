@@ -9,6 +9,7 @@ public class Project
 	public void method2()
 	{
 		System.out.println("m2");
+		System.out.println("Dipeeka");
 	}
 	public void method3()
 	{
@@ -25,7 +26,7 @@ public class Project
 		Project p=new Project();
 		p.method3();
 		p.method2();
-		
+		System.out.println("Done");
 	}
 
 }
