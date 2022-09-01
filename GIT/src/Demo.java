@@ -12,7 +12,7 @@ public class Demo
 
 	public static void main(String[] args) 
 	{
-	System.out.println("DemoGit");
+	System.out.println("DemoGithub");
 
 	}
 
